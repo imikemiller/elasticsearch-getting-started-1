@@ -1,0 +1,7 @@
+{
+    "require": {
+        "fzaninotto/faker": "^1.8",
+        "elasticsearch/elasticsearch": "~6.0",
+        "illuminate/support": "^5.5"
+    }
+}

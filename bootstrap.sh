@@ -40,3 +40,12 @@ echo server.host: \"0.0.0.0\" >> /etc/kibana/kibana.yml
 sudo service elasticsearch start
 sudo service kibana start
 echo "services started"
+
+# to run tools scripts
+sudo apt-get install php7.0-cli -y
+sudo apt-get install php7.0-curl -y
+sudo apt-get install php7.0-mbstring -y
+sudo apt-get install zip -y
+
+# script install dependencies
+su vagrant && cd tools && php composer.phar install
