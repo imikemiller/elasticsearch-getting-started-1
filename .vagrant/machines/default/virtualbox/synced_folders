@@ -1,1 +1,0 @@
-{"virtualbox":{"/tools/":{"guestpath":"/tools","hostpath":"/home/mike/Code/elasticsearch-getting-started-1/tools","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/mike/Code/elasticsearch-getting-started-1","disabled":false,"__vagrantfile":true}}}

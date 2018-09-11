@@ -16,3 +16,5 @@ tools/vendor/nesbot
 tools/vendor/psr
 tools/vendor/react
 tools/vendor/symfony
+.vagrant/
+.idea/
