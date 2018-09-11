@@ -48,4 +48,4 @@ sudo apt-get install php7.0-mbstring -y
 sudo apt-get install zip -y
 
 # script install dependencies
-su vagrant && cd tools && php composer.phar install
+su vagrant && cd /tools && php composer.phar install
